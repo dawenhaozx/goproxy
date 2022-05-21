@@ -1,5 +1,5 @@
 #!/bin/bash
-F="proxy-linux-amd64.tar.gz"
+F="proxy-linux-arm64-v8.tar.gz"
 manual="https://snail.gitee.io/proxy/manual/"
 set -e
 WORKDIR="/tmp/proxy"
